@@ -23,7 +23,9 @@
     "mocha-multi-reporters": "^1.1.6",
     "mochawesome": "^3.0.0",
     "newman": "3.8.3",
-    "nyc": "^11.2.1"
+    "nyc": "^11.2.1",
+    "ts-loader": "^2.3.2",
+    "typescript": "^2.5.3"
   },
   "author": "Anish Karandikar (http://github.com/anishkny)",
   "license": "MIT"
